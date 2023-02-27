@@ -1,0 +1,5 @@
+Classifica in base alla distanza percorsa: 
+1 - Mario Rossi (12345): 37.5899 metri
+2 - Luigi Verdi (67890): 0 metri
+3 - Paola Bianchi (54321): 0 metri
+4 - Giuseppe Neri (98765): 0 metri
